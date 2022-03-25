@@ -1,0 +1,11 @@
+.week {
+    display: flex;
+    justify-content: center;
+}
+
+.day {
+    border: 1px solid black;
+    width: 25px;
+    height: 25px;
+    padding: 25px;
+}
