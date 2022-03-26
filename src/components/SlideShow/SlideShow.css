@@ -1,0 +1,19 @@
+.slideshow {
+    overflow: hidden;
+    background-color: gray;
+}
+
+.slideshowSlider {
+    white-space: nowrap;
+    transition: ease 1500ms;
+    height: 90vh;
+}
+
+.slide {
+    display: inline-block;
+    height: 90vh;
+    width: 100%;
+    opacity: 0.4;
+    margin: 0;
+}
+
